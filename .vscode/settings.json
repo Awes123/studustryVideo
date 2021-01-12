@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/eaa32290-d975-478c-a2d4-c68fd5ce31bf/resourceGroups/FIP/providers/Microsoft.Web/sites/StudustryVideo"
+}
